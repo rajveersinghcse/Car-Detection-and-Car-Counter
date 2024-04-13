@@ -16,7 +16,7 @@ This project utilizes the YOLOv8l model for car detection and implements a Simpl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rajveersinghcse/Car-Detection-and-Car-Counter-on-Road-using-Yolo.git
+git clone https://github.com/rajveersinghcse/Car-Detection-and-Car-Counter.git
 ```
 
 2. Install the required packages:
