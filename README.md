@@ -1,4 +1,6 @@
 # Car Detection and Car Counter
+![Banner](https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/car_counter.gif)
+
 
 This project utilizes the YOLOv8l model for car detection and implements a Simple Online and real-time tracking (SORT) algorithm for counting the number of cars in a video stream. The system detects cars within a predefined region of interest and tracks them using unique IDs.
 
