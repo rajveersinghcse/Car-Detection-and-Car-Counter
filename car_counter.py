@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import numpy as np
 import cv2
 import math
-from sort import *
+from sort import *  # noqa: F403
 
 cap = cv2.VideoCapture('cars.mp4') #for video file
 
