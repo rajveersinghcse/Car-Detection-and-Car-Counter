@@ -3,4 +3,6 @@ ultralytics
 numpy
 matplotlib
 scikit-image
+filterpy
+torch
 -e .
