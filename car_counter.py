@@ -13,7 +13,7 @@ classNames = ["person", "bicycle", "car", "motorbike", "aeroplane", "bus", "trai
 mask = cv2.imread('car_mask.png')
 
 # Create SORT tracker
-tracker = Sort(max_age=20, min_hits=3, iou_threshold=0.3)
+tracker = Sort(max_age=20, min_hits=3, iou_threshold=0.3)  # noqa: F405
 
 limits = [423, 297, 673, 297]
 totalCounts = []
